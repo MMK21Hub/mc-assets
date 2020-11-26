@@ -1,5 +1,5 @@
 {
-  "type": "crafting_shaped",
+  "type": "minecraft:crafting_shaped",
   "pattern": [
     " B ",
     "###"
@@ -9,7 +9,7 @@
       "item": "minecraft:blaze_rod"
     },
     "#": {
-      "item": "minecraft:cobblestone"
+      "tag": "minecraft:stone_crafting_materials"
     }
   },
   "result": {
